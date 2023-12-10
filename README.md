@@ -24,3 +24,5 @@ In each folder, there are these files:
 - The pdf of the used algorithm which simply explains the algorithm
 
 I firstly applied algorithm by using sklearn library, then I wrote the code to build the algorithm from scracth without using sklearn library.
+I believe coding the algorithm from scratch will help a lot to fully understand the algorithm.
+
